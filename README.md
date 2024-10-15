@@ -5,8 +5,8 @@
 | Google     | Yes         | [Google Careers](https://careers.google.com/)    | Awaiting recruiter |     |
 | Microsoft  | Yes         | [Microsoft Careers](https://careers.microsoft.com/) | Applied | 2024-08-30    |
 | Bloomberg  | Yes         | [Bloomberg Careers](https://careers.bloomberg.com/) | Interviewed | 2024-08-28    |
-| Meta  | No         | [Bloomberg Careers](https://boards.greenhouse.io/chime/jobs/7515160002?utm_source=Simplify&ref=Simplify) |  |     |
-| Bloomberg  | No         | [Bloomberg Careers](https://careers.bloomberg.com/) | Applied | 2024-08-28    |
+| Meta  | Yes         | [Bloomberg Careers](https://boards.greenhouse.io/chime/jobs/7515160002?utm_source=Simplify&ref=Simplify) |  |     |
+| Bloomberg  | Yes         | [Bloomberg Careers](https://careers.bloomberg.com/) | Applied | 2024-08-28    |
 | Uber | No | | | |
 | Snapchat | No | | | |
 | Spotify | No | | | |
