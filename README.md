@@ -15,4 +15,4 @@
 | Chime | Yes | [Chime](https://simplify.jobs/c/Chime) | Applied | 2024-08-30 |
 | TikTok | Yes | [TikTok](https://careers.tiktok.com/position?keywords=software%20engineer&category=&location=&project=7322364513776093449&type=2&job_hot_flag=&current=1&limit=10&functionCategory=&tag=) | Received OA | 2024-09-01 |
 | Wyetech | [Wyetech](https://jobs.lever.co/wyetechllc) | Applied | 2024-09-01 |
-| IBM | [IBM]() | Applied | 2024-10-15 |
+| IBM | [IBM]() | Received OA | 2024-10-15 |
